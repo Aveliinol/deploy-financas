@@ -149,6 +149,10 @@ button:hover {
     text-align: center;
 }
 
+.login-container h2 {
+color:black;
+}
+
 
 footer {
     background-color: #16213e;
